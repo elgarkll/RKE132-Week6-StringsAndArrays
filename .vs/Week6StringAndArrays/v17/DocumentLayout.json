@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\elgar\\source\\repos\\Week6StringAndArrays\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{687A52E9-88F0-4AA1-B941-FE8C712E7A80}|RandomElement\\RandomElement.csproj|c:\\users\\elgar\\source\\repos\\week6stringandarrays\\randomelement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{687A52E9-88F0-4AA1-B941-FE8C712E7A80}|RandomElement\\RandomElement.csproj|solutionrelative:randomelement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92A97250-4359-4FB0-98D5-EE913808ECC8}|numberArray\\numberArray.csproj|c:\\users\\elgar\\source\\repos\\week6stringandarrays\\numberarray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92A97250-4359-4FB0-98D5-EE913808ECC8}|numberArray\\numberArray.csproj|solutionrelative:numberarray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F66DA2F9-5D38-49CD-B3A8-3E3A645EBC7C}|Arrays\\Arrays.csproj|c:\\users\\elgar\\source\\repos\\week6stringandarrays\\arrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F66DA2F9-5D38-49CD-B3A8-3E3A645EBC7C}|Arrays\\Arrays.csproj|solutionrelative:arrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C3D5E9A-4370-4767-AF4A-AE99E18A7FA1}|Week6StringAndArrays\\Week6StringAndArrays.csproj|c:\\users\\elgar\\source\\repos\\week6stringandarrays\\week6stringandarrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C3D5E9A-4370-4767-AF4A-AE99E18A7FA1}|Week6StringAndArrays\\Week6StringAndArrays.csproj|solutionrelative:week6stringandarrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\elgar\\source\\repos\\Week6StringAndArrays\\RandomElement\\Program.cs",
+              "RelativeDocumentMoniker": "RandomElement\\Program.cs",
+              "ToolTip": "C:\\Users\\elgar\\source\\repos\\Week6StringAndArrays\\RandomElement\\Program.cs",
+              "RelativeToolTip": "RandomElement\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T06:38:57.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\elgar\\source\\repos\\Week6StringAndArrays\\numberArray\\Program.cs",
+              "RelativeDocumentMoniker": "numberArray\\Program.cs",
+              "ToolTip": "C:\\Users\\elgar\\source\\repos\\Week6StringAndArrays\\numberArray\\Program.cs",
+              "RelativeToolTip": "numberArray\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T06:32:24.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\elgar\\source\\repos\\Week6StringAndArrays\\Arrays\\Program.cs",
+              "RelativeDocumentMoniker": "Arrays\\Program.cs",
+              "ToolTip": "C:\\Users\\elgar\\source\\repos\\Week6StringAndArrays\\Arrays\\Program.cs",
+              "RelativeToolTip": "Arrays\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T06:18:35.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\elgar\\source\\repos\\Week6StringAndArrays\\Week6StringAndArrays\\Program.cs",
+              "RelativeDocumentMoniker": "Week6StringAndArrays\\Program.cs",
+              "ToolTip": "C:\\Users\\elgar\\source\\repos\\Week6StringAndArrays\\Week6StringAndArrays\\Program.cs",
+              "RelativeToolTip": "Week6StringAndArrays\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T05:56:10.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
